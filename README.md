@@ -19,6 +19,11 @@ Pastikan Anda telah menginstal:
 - MySQL/MariaDB
 - Composer (opsional)
 
+Anda bisa mengunduh XAMPP versi 7.4.27 melalui link berikut:
+
+🔗 [Download XAMPP 7.4.27 (Windows)](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.27/xampp-windows-x64-7.4.27-1-VC15-installer.exe/download)
+
+
 ---
 
 ## Langkah-langkah Instalasi
@@ -111,7 +116,7 @@ http://localhost/prestige/
 
 **Admin**
 - Username: `admin`
-- Password: `12345`
+- Password: `admin`
 
 **Pengguna**
 - Bisa mendaftar langsung di halaman login pengguna.
