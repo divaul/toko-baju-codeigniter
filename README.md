@@ -61,7 +61,7 @@ C:/xampp/htdocs/
 ecommerce
 ```
 
-3. Import file `ecommerce.sql` yang ada di dalam folder project (`prestige/ecommerce.sql`)
+3. Import file `ecommerce.sql` yang ada di dalam folder project (`prestige\database\ecommerce.sql`)
 
 ### 4. Konfigurasi Koneksi Database
 
