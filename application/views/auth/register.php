@@ -458,7 +458,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <nav>
                 <ul>
                     <li>
-                        <a href="<?php echo site_url('auth/login'); ?>">
+                        <a href="<?php echo base_url(); ?>">
                             <i class="material-icons" style="color: black;">exit_to_app</i>
                         </a>
                     </li>

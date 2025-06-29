@@ -426,7 +426,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 				<li><a href="<?php echo site_url('pages/review'); ?>">Review</a></li>
 				<li><a href="<?php echo site_url('pages/about'); ?>">Tentang Kami</a></li>
 				<li><a href="<?php echo site_url('pages/contact'); ?>">Kontak</a></li>
-				
+
 
 
 				<li class="account-menu">
