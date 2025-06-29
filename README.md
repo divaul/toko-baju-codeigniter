@@ -89,7 +89,9 @@ $db['default'] = array(
 Edit file:
 
 ```
-prestige/application/config/config.php
+
+prestige\application\config\config.php
+
 ```
 
 Ubah bagian ini:
